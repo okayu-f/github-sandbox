@@ -2,7 +2,7 @@
 name: HealthEvent
 about: AWS HealthEvent対応を管理するためのIssueテンプレート
 title: "【HealthEvent】"
-labels: ''
+labels: documentation, enhancement
 assignees: ''
 
 ---
