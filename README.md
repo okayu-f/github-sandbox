@@ -1,4 +1,4 @@
 # github-sandbox
 githubの挙動をもろもろ触ってみるためのPJ
 
-IssueとのLinkテストのためのREADME更新！
+IssueとのLinkテストのためのREADME更新です！
